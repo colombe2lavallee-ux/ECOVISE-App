@@ -1,0 +1,6 @@
+{
+  "name": "Ecovise - Home Energy & Eco-Transition OS",
+  "description": "Intelligent home energy audit, appliance leak detection, trade-in cashback rebates, and eco-transition management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
